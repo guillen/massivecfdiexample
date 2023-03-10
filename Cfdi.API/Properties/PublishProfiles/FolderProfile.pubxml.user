@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\projects\cfdi</_PublishTargetUrl>
+    <History>True|2023-03-08T16:46:46.1731874Z;False|2023-03-08T10:44:38.1571939-06:00;True|2023-03-08T10:25:52.7838584-06:00;False|2023-03-08T10:25:28.3681462-06:00;False|2023-03-08T10:24:51.8313170-06:00;False|2023-03-08T10:24:25.5611172-06:00;False|2023-03-08T10:24:03.2687473-06:00;True|2023-03-08T09:53:54.9788965-06:00;True|2023-03-08T09:36:45.8840951-06:00;True|2023-03-08T09:29:31.8729426-06:00;False|2023-03-08T09:28:18.0444406-06:00;</History>
+  </PropertyGroup>
+</Project>

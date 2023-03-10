@@ -1,0 +1,12 @@
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\bin\Release\net6.0\Cfdi.Domain.deps.json
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\bin\Release\net6.0\Cfdi.Domain.dll
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\bin\Release\net6.0\Cfdi.Domain.pdb
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.csproj.AssemblyReference.cache
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.AssemblyInfoInputs.cache
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.AssemblyInfo.cs
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.dll
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\refint\Cfdi.Domain.dll
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\Cfdi.Domain.pdb
+C:\Projects\CHUBB\PropuestaPoC\CfdiManagement\Cfdi.Domain\obj\Release\net6.0\ref\Cfdi.Domain.dll
